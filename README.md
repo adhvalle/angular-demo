@@ -1,6 +1,6 @@
 # Proyecto de una demo desarrollado con Angular y Gulp
 
-# Tecnologías:
+## Tecnologías:
 
  * Angularjs
  * Gulp
